@@ -30,3 +30,4 @@ pakker/yay.sh
 # arch/user_credentials.json
 # arch/user_configuration.json
 # InitBASE
+# InitBASE
